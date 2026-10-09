@@ -1,4 +1,4 @@
-1. Title
+1.Title
 Micro-Savings App with Goal Tracking for Personal Finance
 2. Domain
 Finance / Personal Budgeting / Data Analytics
